@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BekzodErkinov/tickets.git/static/css/main.67ed641a.chunk.css",
+    "main.js": "/BekzodErkinov/tickets.git/static/js/main.bcef803f.chunk.js",
+    "main.js.map": "/BekzodErkinov/tickets.git/static/js/main.bcef803f.chunk.js.map",
+    "runtime-main.js": "/BekzodErkinov/tickets.git/static/js/runtime-main.b3fb6ec3.js",
+    "runtime-main.js.map": "/BekzodErkinov/tickets.git/static/js/runtime-main.b3fb6ec3.js.map",
+    "static/js/2.be291061.chunk.js": "/BekzodErkinov/tickets.git/static/js/2.be291061.chunk.js",
+    "static/js/2.be291061.chunk.js.map": "/BekzodErkinov/tickets.git/static/js/2.be291061.chunk.js.map",
+    "index.html": "/BekzodErkinov/tickets.git/index.html",
+    "static/css/main.67ed641a.chunk.css.map": "/BekzodErkinov/tickets.git/static/css/main.67ed641a.chunk.css.map",
+    "static/js/2.be291061.chunk.js.LICENSE.txt": "/BekzodErkinov/tickets.git/static/js/2.be291061.chunk.js.LICENSE.txt",
+    "static/media/fullgraph.2ab29286.png": "/BekzodErkinov/tickets.git/static/media/fullgraph.2ab29286.png",
+    "static/media/logo.4fc791dd.svg": "/BekzodErkinov/tickets.git/static/media/logo.4fc791dd.svg",
+    "static/media/user-img-1.e1dad367.png": "/BekzodErkinov/tickets.git/static/media/user-img-1.e1dad367.png",
+    "static/media/user-img-2.0a786639.png": "/BekzodErkinov/tickets.git/static/media/user-img-2.0a786639.png",
+    "static/media/user-img-3.9ff89148.png": "/BekzodErkinov/tickets.git/static/media/user-img-3.9ff89148.png",
+    "static/media/user-img-4.2829a9f5.png": "/BekzodErkinov/tickets.git/static/media/user-img-4.2829a9f5.png",
+    "static/media/user-img-5.b6c6b7ad.png": "/BekzodErkinov/tickets.git/static/media/user-img-5.b6c6b7ad.png",
+    "static/media/user-img-6.6a05b46a.png": "/BekzodErkinov/tickets.git/static/media/user-img-6.6a05b46a.png",
+    "static/media/user-img-7.396235dc.png": "/BekzodErkinov/tickets.git/static/media/user-img-7.396235dc.png",
+    "static/media/user-img-8.3a97e789.png": "/BekzodErkinov/tickets.git/static/media/user-img-8.3a97e789.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fb6ec3.js",
+    "static/js/2.be291061.chunk.js",
+    "static/css/main.67ed641a.chunk.css",
+    "static/js/main.bcef803f.chunk.js"
+  ]
+}
